@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>CRUDS</title>
+</head>
+<body>
+    <div class="crud">
+        <header>
+            <h1>CRUDS</h1>
+            <h3><span>C</span>reate&emsp;<span>r</span>ead&emsp;<span>u</span>pdate&emsp;<span>d</span>elete  &emsp; <span>s</span>earch</h3>
+        </header>
+        <section class="inputs">
+            <input type="text" placeholder="title" id="title">
+            <div class="Prix">
+                <input type="number" onkeyup="get_total()" placeholder="price" id="price" required>
+                <input type="number" onkeyup="get_total()" placeholder="taxes" id="taxes" required>
+                <input type="number" onkeyup="get_total()" placeholder="ads" id="ads" required>
+                <input type="number" onkeyup="get_total()" placeholder="discount" id="discount" required>
+                <small id="Total"></small>
+            </div>
+            <input type="number" id="count" placeholder="count">
+            <input type="text" placeholder="categoriy" id="category">
+            <button type="submit" id="submit">Create</button>
+            <input onkeyup="search_data(this.value)" type="text" placeholder="search" id="search">
+            <div class="searchbtn">
+                
+                <button type="submit" onclick="seach_by(this.id)" id="seach_by_title">Search By Title</button>
+                <button type="submit" onclick="seach_by(this.id)" id="seach_by_category">Search By Category</button>
+                
+            </div>
+            <div class="delete" id="deleteAll">
+
+            </div>
+            <div class="table">
+                <table>
+                    <thead>
+                        <td>ID</td>
+                        <td>TITLE</td>
+                        <td>PRICE</td>
+                        <td>TAXES</td>
+                        <td>ADS</td>
+                        <td>DISCOUNT</td>
+                        <td>TOTAL</td>
+                        <td>CATEGORY</td>
+                        <td>update</td>
+                        <td>delete</td>
+                    </thead>
+                    <tbody id="tbody">
+                        
+                    </tbody>
+                </table>
+            </div>
+
+        </section>
+    </div>
+</body>
+<script src="main.js"></script>
+</html>   
