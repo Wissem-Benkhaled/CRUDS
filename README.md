@@ -19,3 +19,4 @@ Toutes les opérations sont gérées en temps réel dans le navigateur, sans bas
 🔍 Rechercher dynamiquement par nom ou catégorie
 
 💡 Ce projet met en pratique la logique JavaScript, la manipulation du DOM, et la gestion du stockage local, tout en illustrant les bases d’une application web complète et ergonomique.
+<img width="1668" height="871" alt="CRUD" src="https://github.com/user-attachments/assets/662d414c-1018-4fff-a48d-3e4c03ee1421" />
