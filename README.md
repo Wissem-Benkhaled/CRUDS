@@ -23,3 +23,23 @@ Toutes les opérations sont gérées en temps réel dans le navigateur, sans bas
 
 💡 Ce projet met en pratique la logique JavaScript, la manipulation du DOM, et la gestion du stockage local, tout en illustrant les bases d’une application web complète et ergonomique.
 
+
+---
+
+## 🧑‍💻 Author
+
+**Wissem Benkhaled**
+
+💌 **Email:** [wissembenkhaled85@gmail.com](mailto:wissembenkhaled85@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/wissem-benkhaled](https://www.linkedin.com/in/wissem-benkhaled/)  
+🐙 **GitHub:** [github.com/Wissem-Benkhaled](https://github.com/Wissem-Benkhaled)  
+🌐 **Portfolio:** [wissembenkhaled.netlify.app](https://wissembenkhaled.netlify.app/)
+
+---
+
+💌 **Email:** [wissembenkhaled85@gmail.com](mailto:wissembenkhaled85@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/wissem-benkhaled](https://www.linkedin.com/in/wissem-benkhaled/)  
+🐙 **GitHub:** [github.com/Wissem-Benkhaled](https://github.com/Wissem-Benkhaled)  
+🌐 **Portfolio:** [wissembenkhaled.netlify.app](https://wissembenkhaled.netlify.app/)
+
+---
